@@ -1,3 +1,4 @@
 # hello-world
-First go at it
+First go at it.
+
 Just practicing now.
